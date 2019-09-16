@@ -8,7 +8,7 @@
 .sts4-cache
 
 # 2.IntelliJ IDEA
-.idea
+**/.idea/**
 *.iws
 *.iml
 *.ipr
@@ -29,6 +29,7 @@
 
 # 6.Maven
 target/
+**/target/**
 
 # 7.gradle
 .gradle/
